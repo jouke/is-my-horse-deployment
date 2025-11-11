@@ -1,0 +1,24 @@
+{
+  "name": "@fz/is-my-horse",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/app": "^6.0.2",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.2.1",
+    "@capacitor/filesystem": "^6.0.3",
+    "@capacitor/ios": "^6.2.1",
+    "@capacitor/share": "^6.0.3",
+    "@capacitor/splash-screen": "^6.0.0",
+    "@fz/stable-data-access": "workspace:*",
+    "@fz/stable-page-login": "workspace:*",
+    "@fz/stable-page-profile": "workspace:*",
+    "@fz/stable-page-roster": "workspace:*",
+    "@fz/stable-page-users": "workspace:*",
+    "@fz/stable-page-invite": "workspace:*",
+    "@fz/stable-page-invite-success": "workspace:*",
+    "@fz/ui-shell": "workspace:*",
+    "@capacitor/preferences": "^7.0.2"
+  }
+}
