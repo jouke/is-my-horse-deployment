@@ -21,6 +21,7 @@
     "@fz/stable-page-roster": "workspace:*",
     "@fz/stable-page-stable": "workspace:*",
     "@fz/stable-page-users": "workspace:*",
+    "@fz/stable-page-horses": "workspace:*",
     "@fz/ui-shell": "workspace:*"
   }
 }
