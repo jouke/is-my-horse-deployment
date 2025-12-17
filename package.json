@@ -11,6 +11,7 @@
     "@capacitor/preferences": "^7.0.2",
     "@capacitor/share": "^7.0.2",
     "@capacitor/splash-screen": "^7.0.3",
+    "@capacitor/barcode-scanner": "2.2.3",
     "@capgo/capacitor-social-login": "7.20.0",
     "@fz/horse-page-horse": "workspace:*",
     "@fz/stable-data-access": "workspace:*",
