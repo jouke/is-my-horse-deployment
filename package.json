@@ -5,25 +5,28 @@
   "devDependencies": {
     "@capacitor/android": "^7.4.4",
     "@capacitor/app": "^7.1.0",
+    "@capacitor/barcode-scanner": "2.2.3",
     "@capacitor/cli": "^7.4.4",
     "@capacitor/core": "^7.4.4",
+    "@capacitor/filesystem": "^7.1.4",
     "@capacitor/ios": "^7.4.4",
     "@capacitor/preferences": "^7.0.2",
     "@capacitor/share": "^7.0.2",
     "@capacitor/splash-screen": "^7.0.3",
-    "@capacitor/barcode-scanner": "2.2.3",
-    "@capacitor/filesystem": "^7.1.4",
     "@capgo/capacitor-social-login": "7.20.0",
     "@fz/horse-page-horse": "workspace:*",
+    "@fz/social-page-profile": "workspace:*",
     "@fz/stable-data-access": "workspace:*",
+    "@fz/stable-page-horses": "workspace:*",
     "@fz/stable-page-invite": "workspace:*",
     "@fz/stable-page-invite-success": "workspace:*",
     "@fz/stable-page-login": "workspace:*",
-    "@fz/social-page-profile": "workspace:*",
     "@fz/stable-page-roster": "workspace:*",
     "@fz/stable-page-stable": "workspace:*",
     "@fz/stable-page-users": "workspace:*",
-    "@fz/stable-page-horses": "workspace:*",
     "@fz/ui-shell": "workspace:*"
+  },
+  "dependencies": {
+    "@ionic/pwa-elements": "^3.3.0"
   }
 }
