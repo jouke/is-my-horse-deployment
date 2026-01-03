@@ -15,6 +15,7 @@
     "@capacitor/splash-screen": "^7.0.3",
     "@capgo/capacitor-social-login": "7.20.0",
     "@fz/horse-page-horse": "workspace:*",
+    "@fz/horse-page-manage-team": "workspace:*",
     "@fz/social-page-profile": "workspace:*",
     "@fz/stable-data-access": "workspace:*",
     "@fz/stable-page-horses": "workspace:*",
@@ -27,6 +28,7 @@
     "@fz/ui-shell": "workspace:*"
   },
   "dependencies": {
+    "@capacitor/camera": "^8.0.0",
     "@ionic/pwa-elements": "^3.3.0"
   }
 }
