@@ -14,7 +14,7 @@
     "@capacitor/share": "^7.0.2",
     "@capacitor/splash-screen": "^7.0.3",
     "@capgo/capacitor-social-login": "7.20.0",
-    "@fz/horse-page-horse": "workspace:*",
+    "@fz/social-page-feed": "workspace:*",
     "@fz/horse-page-manage-team": "workspace:*",
     "@fz/social-page-profile": "workspace:*",
     "@fz/stable-data-access": "workspace:*",
@@ -23,7 +23,7 @@
     "@fz/stable-page-invite-success": "workspace:*",
     "@fz/stable-page-login": "workspace:*",
     "@fz/stable-page-roster": "workspace:*",
-    "@fz/stable-page-stable": "workspace:*",
+    "@fz/social-page-dashboard": "workspace:*",
     "@fz/stable-page-users": "workspace:*",
     "@fz/ui-shell": "workspace:*"
   },
