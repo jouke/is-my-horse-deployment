@@ -1,11 +1,11 @@
 {
-  "version": "0.0.3",
-  "build": "2",
-  "note": "If at first you don't succeed...",
+  "version": "0.0.4",
+  "build": "3",
+  "note": "...you try and try again",
   "minNativeVersion": {
     "android": 1,
     "ios": "1"
   },
-  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.3/is-my-horse.0.0.3.2.dist.zip",
+  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.4/is-my-horse.0.0.4.3.dist.zip",
   "latest_db_migration": "20260114142033_stable_owner_fixes.sql"
 }
