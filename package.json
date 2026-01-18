@@ -1,6 +1,6 @@
 {
   "name": "@fz/is-my-horse",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": true,
   "devDependencies": {
     "@capacitor/android": "^7.4.4",
@@ -14,22 +14,24 @@
     "@capacitor/share": "^7.0.2",
     "@capacitor/splash-screen": "^7.0.3",
     "@capgo/capacitor-social-login": "7.20.0",
-    "@fz/social-page-feed": "workspace:*",
-    "@fz/horse-page-manage-team": "workspace:*",
-    "@fz/social-page-profile": "workspace:*",
-    "@fz/stable-data-access": "workspace:*",
-    "@fz/stable-page-horses": "workspace:*",
-    "@fz/stable-page-invite": "workspace:*",
-    "@fz/stable-page-invite-success": "workspace:*",
-    "@fz/stable-page-login": "workspace:*",
-    "@fz/stable-page-roster": "workspace:*",
+    "@fz/admin-data-access": "workspace:*",
+    "@fz/admin-page-horses": "workspace:*",
+    "@fz/admin-page-invite": "workspace:*",
+    "@fz/admin-page-invite-success": "workspace:*",
+    "@fz/admin-page-login": "workspace:*",
+    "@fz/admin-page-manage-team": "workspace:*",
+    "@fz/admin-page-members": "workspace:*",
+    "@fz/admin-page-roster": "workspace:*",
+    "@fz/shared-data-access": "workspace:*",
+    "@fz/shared-ui-shell": "workspace:*",
     "@fz/social-page-dashboard": "workspace:*",
-    "@fz/stable-page-users": "workspace:*",
-    "@fz/ui-shell": "workspace:*"
+    "@fz/social-page-feed": "workspace:*",
+    "@fz/social-page-profile": "workspace:*"
   },
   "dependencies": {
     "@capacitor/camera": "^8.0.0",
     "@capawesome-team/capacitor-datetime-picker": "^7.2.0",
+    "@capgo/capacitor-updater": "^8.41.12",
     "@ionic/pwa-elements": "^3.3.0"
   }
 }
