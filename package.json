@@ -1,6 +1,6 @@
 {
   "name": "@fz/is-my-horse",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": true,
   "devDependencies": {
     "@capacitor/android": "^7.4.4",
@@ -26,7 +26,8 @@
     "@fz/shared-ui-shell": "workspace:*",
     "@fz/social-page-dashboard": "workspace:*",
     "@fz/social-page-feed": "workspace:*",
-    "@fz/social-page-profile": "workspace:*"
+    "@fz/social-page-profile": "workspace:*",
+    "@fz/shared-util-updater": "workspace:*"
   },
   "dependencies": {
     "@capacitor/camera": "^8.0.0",

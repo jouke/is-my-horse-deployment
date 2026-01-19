@@ -1,1 +1,0 @@
-import{W as e}from"./index-DxEv4TWB.js";class m extends e{async present(n){throw this.unimplemented("Not implemented on web.")}async cancel(){throw this.unimplemented("Not implemented on web.")}}export{m as DatetimePickerWeb};
