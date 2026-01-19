@@ -1,11 +1,11 @@
 {
-  "version": "0.0.7",
-  "build": "6",
-  "note": "The proof is in the pudding",
+  "version": "0.0.8",
+  "build": "7",
+  "note": "fixed CD",
   "minNativeVersion": {
     "android": 1,
     "ios": "1"
   },
-  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.7/is-my-horse.0.0.7.6.dist.zip",
+  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.8/is-my-horse.0.0.8.7.dist.zip",
   "latest_db_migration": "20260118161745_get_latest_migration.sql"
 }
