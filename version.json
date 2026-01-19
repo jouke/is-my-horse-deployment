@@ -1,11 +1,11 @@
 {
-  "version": "0.0.9",
-  "build": "8",
-  "note": "fix for version check",
+  "version": "0.0.10",
+  "build": "9",
+  "note": "Fixed endless download loop",
   "minNativeVersion": {
     "android": 1,
     "ios": "1"
   },
-  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.9/is-my-horse.0.0.9.8.dist.zip",
+  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.10/is-my-horse.0.0.10.9.dist.zip",
   "latest_db_migration": "20260118161745_get_latest_migration.sql"
 }
