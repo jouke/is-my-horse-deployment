@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_details"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nl.studiomv.ismyhorse",
+      "sha256_cert_fingerprints": [
+        "E:20:D0:C4:62:A0:F4:83:C9:6F:68:7D:77:55:3D:14:68:2D:BD:2B:24:4A:BA:BB:0F:3C:00:A0:17:4E:FE:C8"
+      ]
+    }
+  }
+]
