@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "build": "11",
+  "note": "Native Login & Signup",
+  "minNativeVersion": {
+    "android": 1,
+    "ios": "1"
+  },
+  "downloadUrl": "https://github.com/jouke/is-my-horse-deployment/releases/download/v0.0.12/is-my-horse.0.0.12.11.dist.zip",
+  "latest_db_migration": "20250118161745_get_latest_migration.sql"
+}
